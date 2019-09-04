@@ -1,0 +1,42 @@
+.bio-wrapper {
+  position: relative;
+}
+
+.bio-card {
+  background-color: white;
+  border: 2px solid black;
+  width: 300px;
+  height: 400px;
+  transform: rotate(-2deg);
+  margin: 35px;
+}
+
+.bio-img {
+  border: 2px solid black;
+  width: 80%;
+  height: 40%;
+  margin: 20px auto;
+}
+
+.bio-deets {
+
+}
+
+.bio-deets > p {
+  text-align: center;
+}
+
+
+
+.strip-container {
+  position: absolute;
+}
+
+.bio-strip {
+  border: 2px solid black;
+  height: 60px;
+  width: 450px;
+  margin: 30px 10px 30px 100px;
+  text-align: center;
+  padding: 20px;
+}
